@@ -46,3 +46,4 @@ backend/uploads/
 
 # ML Models
 backend/ml_models/*.pkl
+
